@@ -96,7 +96,7 @@ Application mobile développée avec Flutter permettant de connecter les artisan
 
 ## 🌐 Me contacter
 
-📧 Email : votre.email@example.com
+📧 Email : elfidonsem@gmail.com
 
 💼 LinkedIn : https://linkedin.com/in/votre-profil
 
