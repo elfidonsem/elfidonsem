@@ -98,7 +98,7 @@ Application mobile développée avec Flutter permettant de connecter les artisan
 
 📧 Email : elfidonsem@gmail.com
 
-💼 LinkedIn : https://linkedin.com/in/votre-profil
+💼 LinkedIn : https://www.linkedin.com/in/elfid-donsem-ndongossolo-3662351b4
 
 🌍 Portfolio : https://votre-portfolio.com
 
